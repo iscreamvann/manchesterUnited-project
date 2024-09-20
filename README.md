@@ -22,4 +22,4 @@ This project is a React application that displays Manchester United's fixtures a
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ManchesterUnited-Project.git
+   git clone https://github.com/iscreamvann/manchesterUnited-project.git
